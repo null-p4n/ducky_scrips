@@ -1,0 +1,6 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING iexplore -k http://www.windows93.net/
+ENTER
+DELAY 9000
